@@ -1,5 +1,5 @@
 let nomeHeroi = "Felipão" 
-let pontosxp = 999
+let pontosxp = 10000
 
 let rankHeroi;
 
